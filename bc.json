@@ -40,7 +40,7 @@
         {
             "slug": "01-what-is-a-request",
             "title": "01-what-is-a-request",
-            "done": false,
+            "done": true,
             "path": "exercises/01-what-is-a-request",
             "translations": [
                 "es",
@@ -51,7 +51,7 @@
         {
             "slug": "02-random-status",
             "title": "02-random-status",
-            "done": false,
+            "done": true,
             "path": "exercises/02-random-status",
             "translations": [
                 "es",
@@ -62,7 +62,7 @@
         {
             "slug": "03-response-body",
             "title": "03-response-body",
-            "done": false,
+            "done": true,
             "path": "exercises/03-response-body",
             "translations": [
                 "es",
